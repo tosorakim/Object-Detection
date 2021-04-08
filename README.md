@@ -1,8 +1,8 @@
 # Introduction
-Animal-Classification Jaguar VS Zebra
+Object detection
 
 # Environment
-Jupyter Notbook, R, and R-Shiny by using the libraries Tensorflow, Keras
+Jupyter Notbook, Colab-Pro by using the libraries Tensorflow, YOLO
 
 # Conclusion
 https://youtu.be/2VBvpRMaP-A
