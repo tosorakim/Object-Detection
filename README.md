@@ -1,8 +1,8 @@
 # Introduction
-Object detection
+Object Detection
 
 # Environment
 Jupyter Notbook, Colab-Pro(GPU) by using the libraries Tensorflow, YOLO
 
 # Conclusion
-https://youtu.be/2VBvpRMaP-A
+Video building this app: https://youtu.be/2VBvpRMaP-A
