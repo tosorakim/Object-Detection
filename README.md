@@ -13,4 +13,3 @@ Jupyter Notbook, Colab-Pro(GPU) by using the libraries Tensorflow, YOLO
 # Conclusion
 Video building this app: https://youtu.be/2VBvpRMaP-A
 
-* [![Youtube Link][logo]](https://youtu.be/W4fSRHeafMo) &nbsp; [K-means clustering](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/algorithms/kmeans/kmeansclustering.py) 
