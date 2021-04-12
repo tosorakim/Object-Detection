@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" src="ML/others/logo/torch_and_tf.svg" /></p>
+<p align="center"><img width="100%" src="https://www.gstatic.com/devrel-devsite/prod/v361636fe9adc09a35d4071cab3bc6a613653d01c6fde907d9b5c606946d81263/tensorflow/images/lockup.svg?dcb_=0.0938458084797551" /></p>
 
 --------------------------------------------------------------------------------
 
